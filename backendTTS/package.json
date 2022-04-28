@@ -1,0 +1,29 @@
+{
+  "name": "backendtts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhatbien/backendTTS.git"
+  },
+  "keywords": [
+    "backendTTS"
+  ],
+  "author": "bie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhatbien/backendTTS/issues"
+  },
+  "homepage": "https://github.com/nhatbien/backendTTS#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.1"
+  }
+}
